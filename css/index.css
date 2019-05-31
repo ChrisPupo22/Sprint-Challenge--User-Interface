@@ -144,3 +144,128 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.navbar-logo {
+    display: flex; 
+    justify-content: space-between;
+}
+.navbar a {
+    padding: 43px;
+    text-decoration: none;
+    color: black;
+
+}
+.navbar {
+    display: flex;
+    
+}
+
+.logo {
+    margin-top: 17px;
+    margin-bottom: 40px;
+}
+
+.top-img {
+    margin-bottom: 20px;
+}
+
+#teal {
+    background-color: teal
+}
+
+#gold {
+    background-color: gold; 
+}
+
+#cadetblue {
+    background-color: cadetblue;
+
+}
+
+#coral {
+    background-color:coral;
+}
+
+#crimson {
+    background-color:crimson;
+}
+
+#forestgreen {
+    background-color:forestgreen; 
+}
+
+#darkorchid {
+    background-color:darkorchid;
+}
+
+#hotpink {
+    background-color:hotpink;
+}
+
+#indigo {
+    background-color:indigo;
+}
+
+#dodgerblue {
+    background-color:dodgerblue;
+}
+
+.header-pic {
+    margin-bottom: 20px;
+}
+
+.header-sect {
+    border-bottom: 1px black dashed; 
+    margin-bottom: 25px; 
+}
+
+.top-p {
+    margin-bottom: 25px; 
+
+}
+
+.sect-1, .sect-2 {
+    display: flex; 
+    justify-content: space-around;  
+}
+
+
+.strat-img {
+    margin-bottom: 10px; 
+}
+.we-work-img {
+    margin-bottom: 10px;
+}
+
+.button {
+    display: flex;
+    border: 1.5px solid black; 
+    padding: 7.5px;
+    border-radius: 10px;
+    margin-top: 15px;
+    justify-content: space-evenly;
+    width: 150px;
+  }
+
+
+
+.we-work, .strat, .places-work, .collab {
+    width: 45%; 
+    border-bottom: 1px black dashed; 
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+}
+
+.collab-img, .work-place {
+    margin-bottom: 10px;
+}
+
+.last-p {
+    margin-bottom: 25px; 
+}
+
+.shrink { 
+    width: 90%; 
+    margin-left: 20px;
+    
+}
