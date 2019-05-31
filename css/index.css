@@ -269,3 +269,16 @@ footer nav a {
     margin-left: 20px;
     
 }
+.contact-us {
+    font-size: 30px; 
+}
+
+.office-image {
+    display: flex;
+    
+    align-items: center;
+    height: 440px;
+    width: 800px;
+    margin-bottom: 15px;
+    margin-top: 15px; 
+}
